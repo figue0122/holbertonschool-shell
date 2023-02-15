@@ -1,4 +1,3 @@
-#!/bin/bash
+#!/bin/bash 
 echo "$ ./0-current_working_directory
-/0x00-shell_shell
-$ "
+/0x00-shell_shell $ "
