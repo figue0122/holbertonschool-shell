@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chgrp 112 hello
+
